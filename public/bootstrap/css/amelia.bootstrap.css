@@ -5636,7 +5636,7 @@ a.list-group-item .list-group-item-heading {
 a.list-group-item:hover,
 a.list-group-item:focus {
   text-decoration: none;
-  background-color: #15b5c1;
+  background-color: #001f3f;
 }
 
 .list-group-item.active,
@@ -5644,8 +5644,8 @@ a.list-group-item:focus {
 .list-group-item.active:focus {
   z-index: 2;
   color: #ffffff;
-  background-color: #15b5c1;
-  border-color: #0d747c;
+  background-color: #001f3f;
+  border-color: #f08080;
 }
 
 .list-group-item.active .list-group-item-heading,
@@ -5672,7 +5672,7 @@ a.list-group-item:focus {
 
 .panel {
   margin-bottom: 20px;
-  background-color: #13a0aa;
+  background-color: #001f3f;
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -5781,7 +5781,7 @@ a.list-group-item:focus {
 
 .panel-footer {
   padding: 10px 15px;
-  background-color: #18cbd8;
+  background-color: #001f3f;
   border-top: 1px solid #0d747c;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
@@ -5819,7 +5819,7 @@ a.list-group-item:focus {
 
 .panel-default > .panel-heading {
   color: #444444;
-  background-color: #18cbd8;
+  background-color: #001f3f;
   border-color: #0d747c;
 }
 

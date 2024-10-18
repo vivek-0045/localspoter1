@@ -1,4 +1,34 @@
-.fggg{
-    
+/* Change the overall background color to Navy Blue */
+body {
+    background-color: #001f3f;  /* Navy Blue */
+    color: #ffffff; /* White text for contrast */
+}
 
+/* Modify the button styles to use Light Coral */
+button, .btn, .search-btn {
+    background-color: #f08080;  /* Light Coral */
+    color: #001f3f;  /* Navy Blue text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Modify header and other text elements */
+header, .navbar, .navbar-brand {
+    background-color: #001f3f;  /* Navy Blue for header */
+    color: #ffffff;
+}
+
+/* Any additional sections like card elements can be updated similarly */
+.card {
+    background-color: #ffffff;  /* Keep the card white for contrast */
+    border: 1px solid #f08080;  /* Light Coral border for accent */
+}
+
+/* Modify the footer to match */
+footer {
+    background-color: #001f3f;  /* Navy Blue for footer */
+    color: #ffffff;
 }
